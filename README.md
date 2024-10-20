@@ -3,18 +3,18 @@ In this project, we’ve developed an interface featuring various visualization 
 
 # Visualizations
 The interface includes five different graphs to visualize vessel behavior:
--Heatmap: Displays areas with high vessel activity, making it easy to spot patterns.
--Line Chart: Tracks vessel movements and activity over time.
--Pixel Graph: Offers detailed, granular visualizations of vessel behavior.
--Network Graph (2 types): Shows relationships and interactions between vessels to help identify potential illegal networks.
+- Heatmap: Displays areas with high vessel activity, making it easy to spot patterns.
+- Line Chart: Tracks vessel movements and activity over time.
+- Pixel Graph: Offers detailed, granular visualizations of vessel behavior.
+- Network Graph (2 types): Shows relationships and interactions between vessels to help identify potential illegal networks.
 
 # Technologies Used
 The project leverages a combination of modern technologies and programming languages:
--Docker: Containerization for consistent environments.
--PostgreSQL: Database management system to store and manage data.
--Python: Backend programming for data processing and analysis.
--JavaScript: Used for dynamic and interactive visualizations.
--HTML & CSS: Structure and styling for the user interface.
+- Docker: Containerization for consistent environments.
+- PostgreSQL: Database management system to store and manage data.
+- Python: Backend programming for data processing and analysis.
+- JavaScript: Used for dynamic and interactive visualizations.
+- HTML & CSS: Structure and styling for the user interface.
 
 ## Getting Started
 Follow these steps to set up and run the project locally:
