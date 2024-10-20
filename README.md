@@ -1,5 +1,5 @@
 # Introduction
-In this project, we’ve developed an interface featuring various visualization tools to address the VAST Challenge 2024 MC-2 tasks. Together with my colleagues, we aimed to detect the behavior of different types of vessels and identify illegal fishing activities, such as those tied to SouthSeafood Express Corp. The interface allows users to explore and analyze vessel data, facilitating the detection of suspicious activities in maritime environments.
+In this project, we’ve developed an interface featuring various visualization tools to address the VAST Challenge 2024 MC-2 tasks. Together with my colleagues, we aimed to detect the behavior of different types of vessels and identify illegal fishing activities, such as those tied to SouthSeafood Express Corp. The interface allows users to explore and analyze vessel data, facilitating the detection of suspicious activities in maritime environments. For further information, please check the [`"Paper"`](https://github.com/esahin99/FishEye-VAST-Challenge-2024-Mini-Challenge-2/blob/main/Vast%20Challenge%202024%20MC2-1.pdf) and [`"Presentation"`](https://github.com/esahin99/FishEye-VAST-Challenge-2024-Mini-Challenge-2/blob/main/Ava2024.pptx) in the repo.
 
 # Visualizations
 The interface includes five different graphs to visualize vessel behavior:
