@@ -36,9 +36,6 @@ Follow these steps to set up and run the project locally:
 ```
 4- Access the interface: Open your browser and navigate to http://localhost:3000 to access the visualization interface.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 # Contributors
 - Mehmet Emre Sahin
 - Sinem Bilge Guler
