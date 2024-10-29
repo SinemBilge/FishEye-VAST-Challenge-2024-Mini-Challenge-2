@@ -40,3 +40,5 @@ Follow these steps to set up and run the project locally:
 - Mehmet Emre Sahin
 - Sinem Bilge Guler
 - Funda Yildiz Aydin
+
+# [Copyright](LICENSE)
